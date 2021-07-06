@@ -1,5 +1,7 @@
 // TODO: implementasi servo_controller.cpp
 
+//Maaf kak saya tidak bisa soal yang ini
+
 const int MID_YAW = 2048;
 const int MID_PITCH = 2048;
 
